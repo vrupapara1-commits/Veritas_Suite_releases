@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2026-08-itr-extension",
+    "priority": "high",
+    "title": "📢 ITR Filing Due Date Extended to 15th September",
+    "html": "<p>The <strong>Central Board of Direct Taxes (CBDT)</strong> has officially extended the due date for filing Income Tax Returns for <strong>AY 2026-27</strong>.</p><table><tr><th>Category</th><th>Original Date</th><th>New Date</th></tr><tr><td>Non-Audit Taxpayers (u/s 139(1))</td><td style='color:#EF4444;text-decoration:line-through;'>31st July 2026</td><td style='color:#22C55E;font-weight:bold;'>15th September 2026</td></tr></table><p style='margin-top:12px;'>This extension applies to all individual, HUF, and non-audit entity filings. Please update your clients accordingly.</p><p><a href='https://incometax.gov.in' target='_blank'>🔗 View Official Notification on incometax.gov.in</a></p>",
+    "category": "Income Tax",
+    "publishedOn": "2026-08-02",
+    "expiresOn": "2026-09-15"
+  },
+  {
+    "id": "2026-08-gst-maintenance",
+    "priority": "normal",
+    "title": "📋 GST Portal Scheduled Maintenance",
+    "body": "The GST portal will be under scheduled maintenance on 5th August 2026 from 12:00 AM to 6:00 AM IST.\n\nDuring this window, filing services (GSTR-1, GSTR-3B, GSTR-9) will be temporarily unavailable.\n\nPlease plan your filings accordingly.",
+    "category": "GST",
+    "publishedOn": "2026-08-01",
+    "expiresOn": "2026-08-06"
+  }
+]
