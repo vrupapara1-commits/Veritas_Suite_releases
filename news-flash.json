@@ -21,7 +21,7 @@
     "id": "2026-08-image-example",
     "priority": "normal",
     "title": "📸 How to Include Images in News Flash",
-    "html": "<p>To include an image in a news flash, add an <code>&lt;img&gt;</code> tag with the image URL:</p><pre style='background:#1E2D54;color:#F8FAFC;padding:12px;border-radius:8px;font-size:13px;overflow-x:auto;'>&lt;img src=\"https://raw.githubusercontent.com/Veritas_Suite_releases/main/images/notice.png\" /&gt;</pre><p style='margin-top:10px;'>Supported formats: <strong>PNG, JPG, GIF, SVG, WebP</strong>. Images auto-resize to fit the card width.</p><p>You can also use base64 inline images for small icons:</p><pre style='background:#1E2D54;color:#F8FAFC;padding:12px;border-radius:8px;font-size:13px;overflow-x:auto;'>&lt;img src=\"data:image/png;base64,iVBOR...\" /&gt;</pre>",
+    "html": "<p>To include an image in a news flash, add an <code>&lt;img&gt;</code> tag with the image URL:</p><pre style='background:#1E2D54;color:#F8FAFC;padding:12px;border-radius:8px;font-size:13px;overflow-x:auto;'>&lt;img src=\"https://raw.githubusercontent.com/vrupapara1-commits/Veritas_Suite_releases/main/images/notice.png\" /&gt;</pre><p style='margin-top:10px;'>Supported formats: <strong>PNG, JPG, GIF, SVG, WebP</strong>. Images auto-resize to fit the card width.</p><p>You can also use base64 inline images for small icons:</p><pre style='background:#1E2D54;color:#F8FAFC;padding:12px;border-radius:8px;font-size:13px;overflow-x:auto;'>&lt;img src=\"data:image/png;base64,iVBOR...\" /&gt;</pre>",
     "category": "Developer Guide",
     "publishedOn": "02-08-2026"
   }
