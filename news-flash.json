@@ -1,38 +1,12 @@
 [
   {
-    "id": "gstr1-due-date-aug-2026",
-    "priority": "high",
-    "category": "GST",
-    "title": "GSTR-1 Due Date Extended for August 2026",
-    "publishedOn": "2026-08-04",
-    "expiresOn": "2026-08-31",
-    "html": "<h3>CBIC Notification 14/2026</h3><p>The due date for filing <strong>GSTR-1</strong> for the tax period <em>July 2026</em> has been extended to <strong>13th August 2026</strong> for taxpayers with aggregate turnover above ₹5 crore.</p><ul><li>QRMP taxpayers: no change, IFF optional as usual.</li><li>Late fee waived for filings completed before the extended date.</li></ul><p>Please plan client filings accordingly.</p>"
-  },
-  {
-    "id": "itr-utility-update-2026",
-    "priority": "normal",
-    "category": "Income Tax",
-    "title": "ITR-3 & ITR-4 Offline Utility Updated",
-    "publishedOn": "2026-08-02",
-    "expiresOn": "2026-09-15",
-    "html": "<p>The Income Tax Department released <strong>version 1.2</strong> of the ITR-3 and ITR-4 offline utilities.</p><p>Key changes:</p><ol><li>New schedule for virtual digital assets (VDA).</li><li>Fixed validation error in Schedule BP for presumptive income.</li></ol><p>Re-download before preparing fresh returns.</p>"
-  },
-  {
-    "id": "tds-rate-reminder-q2",
-    "priority": "normal",
-    "category": "TDS",
-    "title": "Q2 FY 2026-27 TDS Return Filing Window Open",
-    "publishedOn": "2026-07-28",
-    "html": "<p>The filing window for <strong>Q2 (Jul–Sep) TDS returns</strong> is now open on the TRACES portal. Ensure challans are matched before generating Form 26Q / 24Q.</p>"
-  },
-  {
-    "id": "office-holiday-notice",
-    "priority": "low",
-    "category": "General",
-    "title": "Office Closed — Independence Day",
-    "publishedOn": "2026-07-25",
-    "expiresOn": "2026-08-16",
-    "body": "The office will remain closed on 15th August 2026 for Independence Day.\nAll pending filings due on that date should be completed by 14th August.\nFor urgent matters, contact the partner on call."
+    "id": "",
+    "priority": "",
+    "category": "",
+    "title": "",
+    "publishedOn": "",
+    "expiresOn": "",
+    "html": ""
   }
 ]
 
