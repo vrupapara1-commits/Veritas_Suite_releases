@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.4.2",
-  "downloadUrl": "https://github.com/vrupapara1-commits/Veritas_Suite_releases/releases/download/v1.0.4.2/VeritasProfessionalSuite_Setup.exe",
-  "releaseNotes": "• New Table-Level Database Backup (.psbak) & Smart Restore Engine\n• Smart Merge mode to restore without duplicate records + Clean Replace mode\n• Live interactive Progress Modal with animated table counters during backup/restore\n• Workstation migration resilience with automated local SQLEXPRESS fallback\n• Refined Income Tax portal session handling and stability",
-  "mandatory": true,
-  "releasedOn": "2026-08-20"
+  "latestVersion": "1.0.4.3",
+  "downloadUrl": "https://github.com/vrupapara1-commits/Veritas_Suite_releases/releases/download/v1.0.4.3/VeritasProfessionalSuite_Setup.exe",
+  "releaseNotes": "• 12 Locked Bank Statement Converters with 100% balance validation\n• Interactive Preview Dashboard with 5 KPI summary metric cards\n• Live Search & Filter Chips (All, Debits, Credits, Errors)\n• Crisp ledger table styling & 1-click Excel (.xlsx) export",
+  "mandatory": false,
+  "releasedOn": "2026-08-24"
 }
